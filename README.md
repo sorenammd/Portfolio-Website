@@ -3,4 +3,4 @@
 
     
 ## 🚀 Technologies:
-Javascript, HTML, SCSS ,React , Headless cms (Sanity),
+Javascript, HTML, SCSS ,React , Headless cms (Sanity),Framer Motion
